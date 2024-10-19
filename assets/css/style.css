@@ -1,0 +1,12 @@
+.product-image{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.mehsullar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
